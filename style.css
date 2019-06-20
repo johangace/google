@@ -1,0 +1,78 @@
+#nav {
+  font-size: 15px;
+  display: flex;
+  padding-top: 10px;
+  font-family: arial sans-serif;
+}
+
+.navitm {
+  text-decoration: none;
+  color: #000;
+  padding: 10px;
+  opacity: 0.75;
+}
+
+
+#foot {
+  font-size: 15px;
+  display: flex;
+  background-color: #EEEEEF;
+  color: #5B605C;
+  margin-top: 210px;
+ height: 30px;
+}
+
+.left {
+  margin-right: auto;
+  padding-left: 15px;
+}
+
+.right {
+  margin-left: auto;
+  padding-right: 15px;
+}
+
+.profilepic {
+  margin: -10px 10px;
+  height: 28px;
+  border-radius: 100%;
+  border: 0px;
+  object-fit: cover;
+  background-repeat: no-repeat;
+}
+.icon {
+   margin: -5px 10px;
+   height: 18px;
+   border-radius: 100%;
+   border: 0px;
+   object-fit: cover;
+   background-repeat: no-repeat;
+}
+
+.bell {
+background-color: gray;
+
+}
+
+.search input {
+  width: 550px;
+  height: 35px;
+  margin: 20px;
+  border-style: outset;
+  background-image: url("mic.png");
+  background-repeat: no-repeat;
+  background-position: right;
+  background-size: 15px;
+  box-shadow: 0px 2px 0px #C2C8CE;
+}
+
+button {
+width : 150px;
+height: 33px;
+border-style: ridge;
+background-color: #E6E6E6;
+font-weight: bold;
+font-family: 'Roboto', sans-serif;
+font-size: 12px;
+color: #5B605C;
+}

@@ -1,0 +1,34 @@
+.gogl {
+  font-size: 100px;
+  margin-top: 200px;
+  font-family: 'Roboto', sans-serif !important;
+  letter-spacing: -12px;
+  font-weight: 500;
+  margin-bottom: -10px;
+}
+
+.center {
+text-align: center;
+}
+
+.blue {
+
+  color: #398BE8;
+}
+
+.red {
+  color: red;
+}
+
+.yellow {
+  color: #FEC508;
+}
+
+.green {
+  color: green;
+}
+
+.search {
+
+
+}
